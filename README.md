@@ -5,6 +5,6 @@ It practically focuses on implementing the principles of OOP in JS.
 
 ## Main Technologies used:
 
--HTML
--CSS
--JavaScript 
+- HTML
+- CSS
+- JavaScript 
